@@ -6,6 +6,8 @@ A three-part dock designed for the StealthChanger system. The docking mechanism 
 
 The dock was originally designd to use a 10mm acrylic panel as the plate, but it can be printed as well, leavnig the infill exposed lets you see through to the toohead and it doubles as an LED light diffuser. An optional brush holder on the bottom of the dock accepts a silicone nozzle brush so the nozzle is automatically wiped on every dock and undock cycle.
 
+![Dock Plate Slicer PReview](../images/dock-panel-slicer-preview.png)
+
 > Printing note: for the honey comb effect on the toolhead-dock-plate.STL Print with the fllowing settings:
 >- 0 top/bottom layers
 >- 8 perimeters

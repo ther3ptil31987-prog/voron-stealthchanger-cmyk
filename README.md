@@ -10,6 +10,15 @@ This repo documents all of the custom and modified components.
 
 ![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk-matched.png)
 
+> Print note: unless otherwise noted in a component's own README, print all parts using the [recommended Voron print settings](https://vorondesign.com/voron_document/print_settings/):
+>- Layer height: 0.2mm
+>- Extrusion width: 0.4mm, forced
+>- Infill percentage: 40%
+>- Infill type: grid, gyroid, honeycomb, triangle, or cubic
+>- Wall count: 4
+>- Solid top/bottom layers: 5
+>- Supports: NONE
+
 ## Table of Contents
 
 - [Filaments Used in This Build](#filaments-used-in-this-build)
